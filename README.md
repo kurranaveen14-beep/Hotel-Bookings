@@ -1,4 +1,4 @@
-🏨 Hotel Bookings Analytics Dashboard
+##🏨 Hotel Bookings Analytics Dashboard
 
 📌 Project Overview
 
