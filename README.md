@@ -1,80 +1,46 @@
-##🏨 Hotel Bookings Analytics Dashboard
+🏨 Hotel Bookings Analytics Dashboard
 
-📌 Project Overview
+## 📌 About This Project
 
-The Hotel Bookings Analytics Dashboard is a data analytics project built using Snowflake and SQL to analyze hotel booking data.
-This dashboard provides insights into revenue trends, booking patterns, guest statistics, and city-wise performance.
+This is a beginner-friendly data analytics project built using Snowflake and SQL.
+The goal of this project is to analyze hotel booking data and create a dashboard that shows important business insights.
 
-The goal of this project is to transform raw booking data into meaningful business insights that support data-driven decision-making.
+## 📊 What This Dashboard Shows
 
-📊 Key Metrics
+Total Revenue
 
-Total Revenue: 577,347
+Total Bookings
 
-Total Bookings: 1,729
+Average Booking Value
 
-Average Booking Value: 334.11
+Total Guests
 
-Total Guests: 5,072
+Monthly Revenue Trend
 
-📈 Dashboard Insights
-
-Monthly Revenue Trend Analysis
-
-Monthly Booking Trend Analysis
+Monthly Booking Trend
 
 Revenue by City
 
-Bookings by Room Type (Deluxe, Suite, Standard)
+Bookings by Room Type
 
-Booking Status Analysis (Confirmed, Cancelled, No-Show)
+Booking Status (Confirmed, Cancelled, No-Show)
 
+## 🛠️ Tools Used
 
-🛠️ Tech Stack
+Snowflake (Cloud Data Warehouse)
 
-Snowflake – Cloud Data Warehouse
+SQL (for writing queries)
 
-SQL – Data querying and transformation
+Snowsight (for dashboard creation)
 
-Snowsight Dashboard – Data visualization
+## 🎯 What I Learned
 
+How to create tables in Snowflake
 
-🚀 How to Run the Project
+How to analyze booking and revenue data
 
-Create a database and schema in Snowflake.
+How to build a dashboard using real data
 
-Create tables using the provided SQL scripts.
+## 🚀 Project Purpose
 
-Load the hotel bookings dataset.
-
-Run analysis queries.
-
-Build the dashboard using Snowsight.
-
-
-📚 Skills Demonstrated
-
-Data Warehousing Concepts
-
-SQL Aggregations & Joins
-
-KPI Calculations
-
-Business Data Analysis
-
-Dashboard Development
-
-
-🎯 Learning Outcome
-
-This project improved my understanding of:
-
-Working with structured data in Snowflake
-
-Writing optimized SQL queries
-
-Creating business-focused dashboards
-
-Converting raw data into actionable insights
-
-
+This project helped me understand how raw data can be converted into meaningful insights that help businesses make better decisions.
