@@ -1,4 +1,5 @@
 🏨 Hotel Bookings Analytics Dashboard
+
 📌 Project Overview
 
 The Hotel Bookings Analytics Dashboard is a data analytics project built using Snowflake and SQL to analyze hotel booking data.
@@ -28,6 +29,7 @@ Bookings by Room Type (Deluxe, Suite, Standard)
 
 Booking Status Analysis (Confirmed, Cancelled, No-Show)
 
+
 🛠️ Tech Stack
 
 Snowflake – Cloud Data Warehouse
@@ -36,16 +38,6 @@ SQL – Data querying and transformation
 
 Snowsight Dashboard – Data visualization
 
-🗂️ Project Structure
-Hotel-Bookings-Analytics/
-│
-├── SQL_Scripts/
-│   ├── table_creation.sql
-│   ├── data_cleaning.sql
-│   └── analysis_queries.sql
-│
-├── Dashboard_Screenshot.png
-└── README.md
 
 🚀 How to Run the Project
 
