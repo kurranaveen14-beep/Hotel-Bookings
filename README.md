@@ -51,6 +51,7 @@ Run analysis queries.
 
 Build the dashboard using Snowsight.
 
+
 📚 Skills Demonstrated
 
 Data Warehousing Concepts
@@ -62,6 +63,7 @@ KPI Calculations
 Business Data Analysis
 
 Dashboard Development
+
 
 🎯 Learning Outcome
 
@@ -75,8 +77,4 @@ Creating business-focused dashboards
 
 Converting raw data into actionable insights
 
-📬 Contact
 
-Kurra Naveen
-Aspiring Data Analyst | Snowflake Enthusiast
-Open to opportunities and collaborations.
